@@ -1,4 +1,4 @@
-allow_scm_jenkinsfile = true
+//allow_scm_jenkinsfile = true
 skip_default_checkout = true
 merge = true 
 override = true 

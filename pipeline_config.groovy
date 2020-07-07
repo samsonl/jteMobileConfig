@@ -18,6 +18,7 @@ keywords {
 
 libraries{
   merge = true 
+  override=true
 }
 
 template_methods{

@@ -1,5 +1,5 @@
-//allow_scm_jenkinsfile = true
-skip_default_checkout = true
+allow_scm_jenkinsfile=true
+skip_default_checkout=true
 merge = true 
 override = true 
 
